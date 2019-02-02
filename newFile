@@ -1,2 +1,8 @@
 Hi
 this is so cool!!
+
+
+git status
+git add --all
+git commit -m 'change'
+git push
